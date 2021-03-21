@@ -1,2 +1,4 @@
 
-#Thème : Les Méthodes de Gradient
+# Thème : Les Méthodes de Gradient
+
+##### Spécialité : M1 IL
